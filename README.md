@@ -1,6 +1,6 @@
 # Graph Theory Sketch Pad
 
-A sketchpad to be able to draw graphs.
+A sketchpad to draw graphs.
 
 ## Motivation
 
